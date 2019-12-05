@@ -24,7 +24,7 @@ Classificação entre 5 posições de mão analisando sensores de movimento em u
 - Multilayer Perceptron (MLP)
 - Random Forest
 
-# Otimização dos hiperparâmetros
+# Otimização dos hiperparâmetros:
 - Extrair os valores dos parâmetros de cada método, visando a melhor performance possível
 - Cálculo do erro médio variando os parâmetros, por meio do k-fold cross validation
 - Valor de K no modelo KNN
@@ -32,7 +32,7 @@ Classificação entre 5 posições de mão analisando sensores de movimento em u
 - Tamanho da camada escondida e eta (decaimento dos pesos) no modelo MLP
 - Número de árvores no modelo Random Forest
 
-# Resultados
+# Resultados:
 <img src="https://i.imgur.com/EWns5qR.png" width="1109" height="172" title="Results">
 
 
