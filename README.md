@@ -7,7 +7,8 @@ Alunos:
 - Vinicius Torres Dutra Maia da Costa	- nUSP 10262781
 
 # Descrição:
-Classificação entre 5 posições de mão analisando sensores de movimento em uma luva de captura de movimento do dataset MoCap Hand Postures, encontrado no repositório UCI
+Classificação entre 5 posições de mão analisando sensores de movimento em uma luva de captura de movimento do dataset 
+[MoCap Hand Postures](https://archive.ics.uci.edu/ml/datasets/MoCap+Hand+Postures), encontrado no repositório UCI
 
 # Etapas:
 - Análise e pré-processamento dos dados brutos
@@ -33,6 +34,9 @@ Classificação entre 5 posições de mão analisando sensores de movimento em u
 
 # Resultados
 <img src="https://i.imgur.com/EWns5qR.png" width="1109" height="172" title="Results">
+
+
+
 
 
 
